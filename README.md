@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnazneen20
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 📫 E-mail: masumanazneen2019@gmail.com
 
 <!---
