@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnazneen20
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN stack technology
 - 📫 E-mail: masumanazneen2019@gmail.com
 
 <!---
