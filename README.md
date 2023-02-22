@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnazneen20
+- 👋 Hi, I’m Dewan Masuma Nazneen.
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning MERN stack technology
 - 📫 E-mail: masumanazneen2019@gmail.com
