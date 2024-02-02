@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-rosy-mu.vercel.app/](https://portfolio-site-rosy-mu.vercel.app/)
+- 👨‍💻 All of my projects are available [here🚀](https://portfolio-site-rosy-mu.vercel.app/)
 
 - 📫 How to reach me **masumanazneen2019@gmail.com**
 
